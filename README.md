@@ -29,3 +29,6 @@ Yeah so i only have this here cuz if i reset my pc i'll lose the settings so why
 
 as for audio, well i have that in low rate or just disabled since i dont really need it.. 
 64 audio bitrate
+-
+
+also, i have a color correction filter on just incase..for some reason obs looks really saturated and weird without it
